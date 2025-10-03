@@ -1,6 +1,7 @@
 /****************************
 * System: Cafe Ordering System
-* Developers: De Nieva, VJ Bryant
+* Developers:
+*             De Nieva, VJ Bryant A.
 *             Caspe, Johnmark
 *             Diaz, Prince Lynyrd V.
 *             Estrada, Kishi Q.
@@ -37,4 +38,5 @@
     c. PHP Debug: Xdebug
     d. PHP Extension pack: Xdebug
 3. XAMPP (for database)
+
 
