@@ -1,6 +1,10 @@
 /****************************
 * System: Cafe Ordering System
-* Developers: De Nieva, VJ Bryant, Caspe, Johnmark, 
+* Developers: De Nieva, VJ Bryant
+*             Caspe, Johnmark
+*             Diaz, Prince Lynyrd V.
+*             Estrada, Kishi Q.
+*             Lobot, Mariane Alera 
 * Date: September 15, 2025
 * University: Phinma Education - University of Pangasinan
 * School: College of Information Technology Education (CITE)
@@ -33,3 +37,4 @@
     c. PHP Debug: Xdebug
     d. PHP Extension pack: Xdebug
 3. XAMPP (for database)
+
